@@ -1,0 +1,10 @@
+{
+  "mode": {
+    "symbol": {
+      "inline": false,
+      "dest": "out",
+      "sprite": "sprite.symbol.svg",
+      "example": true
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "mode": {
+    "defs": {
+      "inline": false,
+      "dest": "out",
+      "sprite": "sprite.defs.svg",
+      "example": true
+    }
+  }
+}

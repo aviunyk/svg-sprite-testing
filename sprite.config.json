@@ -1,0 +1,14 @@
+{
+  "mode": {
+    "symbol": {
+      "dest": "dist",
+      "sprite": "sprite.symbol.svg",
+      "example": true
+    },
+    "defs": {
+      "dest": "dist",
+      "sprite": "sprite.defs.svg",
+      "example": true
+    }
+  }
+}
